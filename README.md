@@ -1,3 +1,9 @@
+### Hi there 👋, Sunita Inderjit
+
+
+Results-driven Data Scientist with 12yrs.  experience in financial services, project management, and AI solutions. Expertise in designing data pipelines, building, and optimizing machine learning models, and delivering actionable insights through statistical modeling and predictive analytics. Proven track record of driving business outcomes and enhancing customer experiences through data-driven strategies.
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sunita-inderjit/) 
