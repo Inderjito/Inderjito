@@ -3,7 +3,7 @@
 
 Results-driven Data Scientist with 12yrs. experience in financial services, project management, and AI solutions. Expertise in designing data pipelines, building, and optimizing machine learning models, and delivering actionable insights through statistical modeling and predictive analytics. Proven track record of driving business outcomes and enhancing customer experiences through data-driven strategies.
 
-([Resume](https://drive.google.com/file/d/14zlTZhgV72_S6VCGlwMYwal0sZKYFkv-/view?usp=sharing))
+([Resume](https://drive.google.com/file/d/1kiZXr9my_vhfC5tR2JOeJWEvQLWUfilJ/view?usp=sharing))
 
 
 
