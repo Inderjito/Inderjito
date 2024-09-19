@@ -1,7 +1,8 @@
 ### Hi there 👋, Sunita Inderjit
 
 
-Results-driven Data Scientist with 12yrs. experience in financial services, project management, and AI solutions. Expertise in designing data pipelines, building, and optimizing machine learning models, and delivering actionable insights through statistical modeling and predictive analytics. Proven track record of driving business outcomes and enhancing customer experiences through data-driven strategies.
+Results-driven Data Scientist with 12 years of experience in financial services, customer relations, project management, and AI-driven solutions. Expertise in designing data pipelines, building and optimizing machine learning models, and implementing large language models (LLMs) to drive business efficiencies. Skilled in delivering actionable insights through statistical modeling and predictive analytics, with a proven track record of enhancing customer experiences and driving business outcomes through data-driven strategies.
+
 
 ([Resume](https://drive.google.com/file/d/1kiZXr9my_vhfC5tR2JOeJWEvQLWUfilJ/view?usp=sharing))
 
